@@ -3,7 +3,7 @@
   
 - I’m currently learning PYTHON
 
-- finish line: be a full stack.
+- finish line: be a front end.
 
 
 <!---
